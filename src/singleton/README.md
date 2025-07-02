@@ -50,7 +50,7 @@ This guide outlines a step-by-step approach to designing a thread-safe Singleton
 
 ---
 
-## 8. Extend Functionality (If time permits)  
+## 8. Extend Functionality
 - Add **in-memory buffering** and a `flush()` method  
 - Introduce **file logging** via separate class or decorator pattern  
 - Support **log levels** (INFO, DEBUG, ERROR) for filtering  
