@@ -1,4 +1,4 @@
-package singleton;
+package singleton.Logger;
 
 public class Logger {
 
