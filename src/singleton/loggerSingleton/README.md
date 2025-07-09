@@ -38,7 +38,7 @@ This guide outlines a step-by-step approach to designing a thread-safe Singleton
 
 ---
 
-## 6. Improve Timestamp Format (Optional)  
+## 6. Timestamp Format
 - Use `java.time.LocalDateTime` and `DateTimeFormatter`  
 - Format timestamp as `yyyy-MM-dd HH:mm:ss` for readability  
 
